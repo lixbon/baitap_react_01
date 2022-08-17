@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./index.html/static/css/main.225ce6bc.css",
-    "main.js": "./index.html/static/js/main.ca4ad0fc.js",
-    "static/js/787.7106a11b.chunk.js": "./index.html/static/js/787.7106a11b.chunk.js",
-    "static/media/logo.svg": "./index.html/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "./index.html/index.html",
-    "main.225ce6bc.css.map": "./index.html/static/css/main.225ce6bc.css.map",
-    "main.ca4ad0fc.js.map": "./index.html/static/js/main.ca4ad0fc.js.map",
-    "787.7106a11b.chunk.js.map": "./index.html/static/js/787.7106a11b.chunk.js.map"
+    "main.css": "/baitap_react_01/static/css/main.225ce6bc.css",
+    "main.js": "/baitap_react_01/static/js/main.26d17673.js",
+    "static/js/787.7106a11b.chunk.js": "/baitap_react_01/static/js/787.7106a11b.chunk.js",
+    "static/media/logo.svg": "/baitap_react_01/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/baitap_react_01/index.html",
+    "main.225ce6bc.css.map": "/baitap_react_01/static/css/main.225ce6bc.css.map",
+    "main.26d17673.js.map": "/baitap_react_01/static/js/main.26d17673.js.map",
+    "787.7106a11b.chunk.js.map": "/baitap_react_01/static/js/787.7106a11b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.225ce6bc.css",
-    "static/js/main.ca4ad0fc.js"
+    "static/js/main.26d17673.js"
   ]
 }
